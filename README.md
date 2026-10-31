@@ -1,4 +1,4 @@
-# Hi, I'm Yuemihai 👋
+# Hi, I'm Sula 👋
 
 I enjoy turning ideas into things that work — with AI, code, and design.
 
